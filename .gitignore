@@ -1,0 +1,7 @@
+.idea/
+data/graph/*
+data/eval/*
+!data/eval/test.*
+model/*
+result/*
+log/*
