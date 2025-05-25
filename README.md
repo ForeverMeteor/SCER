@@ -1,9 +1,9 @@
 # Self-Consistency, Extract and Rectify: Knowledge Graph Enhance Large Language Model for Electric Power Question Answering
 
+\[ English | [中文](README_zh.md) \]
+
 <div align="center">
-
-[![Paper](https://img.shields.io/badge/Paper-Springer-red)](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_40) [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-
+[![Paper](https://img.shields.io/badge/Paper-Springer-red)](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_40) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ForeverMeteor/SCER/blob/main/LICENSE)
 </div> 
 
 ## Overview
