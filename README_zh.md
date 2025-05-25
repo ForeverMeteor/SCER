@@ -3,6 +3,7 @@
 \[ [English](README.md) | 中文 \]
 
 <div align="center">
+
 [![Paper](https://img.shields.io/badge/Paper-Springer-red)](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_40) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ForeverMeteor/SCER/blob/main/LICENSE)
 </div> 
 
